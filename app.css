@@ -19,3 +19,17 @@ body {
 #mainnav .nav-link:hover {
     color: #ea1c2c;
 }
+
+#heading-grp span {
+    color: #ea1c2c;
+}
+
+#heading-grp h1 {
+    font-size: 4rem;
+}
+
+@media (max-width: 1280px) {
+    #heading-grp h1 {
+        font-size: 3.3rem;
+    }
+}
